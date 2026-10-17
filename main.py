@@ -15,8 +15,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # =====================================================
-ACCOUNT_EMAIL    = "gmcwb05@gmail.com"
-ACCOUNT_PASSWORD = "Luigi0522@"
+ACCOUNT_EMAIL    = "xxx@gmail.com"
+ACCOUNT_PASSWORD = "P@word"
 LOGIN_URL = "https://skillcertpro.com/my-account/"
 EXAM_URL  = "https://skillcertpro.com/oracle-database-administration-i-1z0-082-exam-dumps/"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
